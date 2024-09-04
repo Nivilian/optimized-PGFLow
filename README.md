@@ -1,6 +1,6 @@
-# PGFlow Demo part
+# PGFlow
 
-## UML Diagram of the Behaviours of the Vehicles
+## Flow chart of the Behaviours of the Vehicles
 
 ![Labyrinth Performance](./assets/labyrinth_performance.png)
 
@@ -11,4 +11,3 @@
   <img src="./assets/guidance_vector_field.png" alt="Simulation Example 2" width="214"/>
   <img src="./assets/pgflow.gif" alt="Simulation Example 3" width="209"/>
 </p>
-
