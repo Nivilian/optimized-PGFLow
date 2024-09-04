@@ -1,14 +1,14 @@
-# PGFlow
+# PGFlow Demo part
 
-Multi-agent plath planning algorithm with which agents can avoid other agents and obstacles. 
+## UML Diagram of the Behaviours of the Vehicles
 
-To run simple example, see `examples/` directory.
+![Labyrinth Performance](./assets/labyrinth_performance.png)
 
-To run with more complex visualisers and with a pybullet drone simulator, see [FLightHouse](https://github.com/enac-drones/flighthouse).
-
+## Brief Examples of the Simulation
 
 <p align="center">
-  <img src="./assets/vis2d.png" alt="Image 1" width="200"/>
-  <img src="./assets/guidance_vector_field.png" alt="Image 2" width="214"/>
-  <img src="./assets/pgflow.gif" alt="Image 3" width="209"/>
+  <img src="./assets/vis2d.png" alt="Simulation Example 1" width="200"/>
+  <img src="./assets/guidance_vector_field.png" alt="Simulation Example 2" width="214"/>
+  <img src="./assets/pgflow.gif" alt="Simulation Example 3" width="209"/>
 </p>
+
